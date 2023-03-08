@@ -1,0 +1,9 @@
+{
+  "name": "tailwindarabic",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  }
+}
